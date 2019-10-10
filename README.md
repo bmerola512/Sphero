@@ -1,1 +1,2 @@
-# Sphero Main Branch
+# Sphero Endurance Branch
+Endurance – Your robot must successfully travel around the periphery of HH208 (circumnavigate). A clear path will be provide at a distance of 4 feet from each outside wall. Robot should not collide with any objects as it goes around the room. Robot should start with a green light and speak ‘ready set go’ and stop with a red light and speak ‘I’m done and I need water’. Points deducted if robot is not 4 feet from the wall throughout the circumnavigation, if it does not light and speak at start and finish, if it collides with anything, or if it does not finish inthe square where it started.
