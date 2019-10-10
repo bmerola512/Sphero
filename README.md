@@ -1,1 +1,2 @@
-# Sphero Main Branch
+# Sphero Agility Branch
+Agility – Your robot will run the obstacle course. The course will start in a square. Then the robot will encounter 3 objects which it must avoid. Next, the robot will move to stage 2 square and knock over as many pins as possible. Then the robot will proceed to stage 3 square, go over the ramp and finish in the same square where it started. Points added for each obstacle the robot completes, for each obstacle avoided, for each pin the robot topples and for each square the robot stops in during its run.
