@@ -1,1 +1,2 @@
-# Sphero Main Branch
+# Sphero Speed Branch
+Speed – Your robot must successfully run the figure eight course 5 times. A path will be laid out on the floor. Your robot must stay within the path provided. Your robot will start and finish in the square provided. Upon finishing, robot will speak ‘I am the winner’ and flash multicolored lights for 5 seconds. Points will be deducted if your robot strays from the path, if it does not go around 5 times, or if it does not finish in the same place it started.
